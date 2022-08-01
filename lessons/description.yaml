@@ -1,0 +1,9 @@
+# description.yaml file template, defines Unit/Standard details when generating an autoconfig.yaml
+# Populates a file called 'description.yaml'. When placed in a unit directory, autoconfig.yaml generation will read this file
+# and apply these settings to the block's autoconfig.
+---
+Title: Scrum Framework Overview
+Description: Brief overview of the roles, and practices of the Scrum Agile framework.
+UID: 1c03d3bc-1295-42b4-8378-2b0a961db46f
+SuccessCriteria:
+ - Student will be able to describe the Scrum Agile Framework and some of its more common practices.
